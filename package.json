@@ -1,0 +1,27 @@
+{
+  "name": "query-tuning",
+  "version": "1.0.0",
+  "description": "query tuner and optimization",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "getenv": "^0.7.0",
+    "knex": "^0.14.3",
+    "lodash": "^4.17.5",
+    "mssql": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjellrichard/query-tuning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjellrichard/query-tuning/issues"
+  },
+  "homepage": "https://github.com/kjellrichard/query-tuning#readme"
+}
